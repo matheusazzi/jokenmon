@@ -1,0 +1,3346 @@
+[{
+    "id": "1",
+    "name": "Bulbasaur",
+    "power": "318",
+    "url": "http://img.pokemondb.net/artwork/bulbasaur.jpg"
+}, {
+    "id": "2",
+    "name": "Ivysaur",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/ivysaur.jpg"
+}, {
+    "id": "3",
+    "name": "Venusaur",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/venusaur.jpg"
+}, {
+    "id": "4",
+    "name": "Charmander",
+    "power": "309",
+    "url": "http://img.pokemondb.net/artwork/charmander.jpg"
+}, {
+    "id": "5",
+    "name": "Charmeleon",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/charmeleon.jpg"
+}, {
+    "id": "6",
+    "name": "Charizard",
+    "power": "534",
+    "url": "http://img.pokemondb.net/artwork/charizard.jpg"
+}, {
+    "id": "7",
+    "name": "Squirtle",
+    "power": "314",
+    "url": "http://img.pokemondb.net/artwork/squirtle.jpg"
+}, {
+    "id": "8",
+    "name": "Wartortle",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/wartortle.jpg"
+}, {
+    "id": "9",
+    "name": "Blastoise",
+    "power": "530",
+    "url": "http://img.pokemondb.net/artwork/blastoise.jpg"
+}, {
+    "id": "10",
+    "name": "Caterpie",
+    "power": "195",
+    "url": "http://img.pokemondb.net/artwork/caterpie.jpg"
+}, {
+    "id": "11",
+    "name": "Metapod",
+    "power": "205",
+    "url": "http://img.pokemondb.net/artwork/metapod.jpg"
+}, {
+    "id": "12",
+    "name": "Butterfree",
+    "power": "385",
+    "url": "http://img.pokemondb.net/artwork/butterfree.jpg"
+}, {
+    "id": "13",
+    "name": "Weedle",
+    "power": "195",
+    "url": "http://img.pokemondb.net/artwork/weedle.jpg"
+}, {
+    "id": "14",
+    "name": "Kakuna",
+    "power": "205",
+    "url": "http://img.pokemondb.net/artwork/kakuna.jpg"
+}, {
+    "id": "15",
+    "name": "Beedrill",
+    "power": "385",
+    "url": "http://img.pokemondb.net/artwork/beedrill.jpg"
+}, {
+    "id": "16",
+    "name": "Pidgey",
+    "power": "251",
+    "url": "http://img.pokemondb.net/artwork/pidgey.jpg"
+}, {
+    "id": "17",
+    "name": "Pidgeotto",
+    "power": "349",
+    "url": "http://img.pokemondb.net/artwork/pidgeotto.jpg"
+}, {
+    "id": "18",
+    "name": "Pidgeot",
+    "power": "469",
+    "url": "http://img.pokemondb.net/artwork/pidgeot.jpg"
+}, {
+    "id": "19",
+    "name": "Rattata",
+    "power": "253",
+    "url": "http://img.pokemondb.net/artwork/rattata.jpg"
+}, {
+    "id": "20",
+    "name": "Raticate",
+    "power": "413",
+    "url": "http://img.pokemondb.net/artwork/raticate.jpg"
+}, {
+    "id": "21",
+    "name": "Spearow",
+    "power": "262",
+    "url": "http://img.pokemondb.net/artwork/spearow.jpg"
+}, {
+    "id": "22",
+    "name": "Fearow",
+    "power": "442",
+    "url": "http://img.pokemondb.net/artwork/fearow.jpg"
+}, {
+    "id": "23",
+    "name": "Ekans",
+    "power": "288",
+    "url": "http://img.pokemondb.net/artwork/ekans.jpg"
+}, {
+    "id": "24",
+    "name": "Arbok",
+    "power": "438",
+    "url": "http://img.pokemondb.net/artwork/arbok.jpg"
+}, {
+    "id": "25",
+    "name": "Pikachu",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/pikachu.jpg"
+}, {
+    "id": "26",
+    "name": "Raichu",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/raichu.jpg"
+}, {
+    "id": "27",
+    "name": "Sandshrew",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/sandshrew.jpg"
+}, {
+    "id": "28",
+    "name": "Sandslash",
+    "power": "450",
+    "url": "http://img.pokemondb.net/artwork/sandslash.jpg"
+}, {
+    "id": "29",
+    "name": "Nidoran♀",
+    "power": "275",
+    "url": "http://img.pokemondb.net/artwork/nidoran-f.jpg"
+}, {
+    "id": "30",
+    "name": "Nidorina",
+    "power": "365",
+    "url": "http://img.pokemondb.net/artwork/nidorina.jpg"
+}, {
+    "id": "31",
+    "name": "Nidoqueen",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/nidoqueen.jpg"
+}, {
+    "id": "32",
+    "name": "Nidoran♂",
+    "power": "273",
+    "url": "http://img.pokemondb.net/artwork/nidoran-m.jpg"
+}, {
+    "id": "33",
+    "name": "Nidorino",
+    "power": "365",
+    "url": "http://img.pokemondb.net/artwork/nidorino.jpg"
+}, {
+    "id": "34",
+    "name": "Nidoking",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/nidoking.jpg"
+}, {
+    "id": "35",
+    "name": "Clefairy",
+    "power": "323",
+    "url": "http://img.pokemondb.net/artwork/clefairy.jpg"
+}, {
+    "id": "36",
+    "name": "Clefable",
+    "power": "473",
+    "url": "http://img.pokemondb.net/artwork/clefable.jpg"
+}, {
+    "id": "37",
+    "name": "Vulpix",
+    "power": "299",
+    "url": "http://img.pokemondb.net/artwork/vulpix.jpg"
+}, {
+    "id": "38",
+    "name": "Ninetales",
+    "power": "505",
+    "url": "http://img.pokemondb.net/artwork/ninetales.jpg"
+}, {
+    "id": "39",
+    "name": "Jigglypuff",
+    "power": "270",
+    "url": "http://img.pokemondb.net/artwork/jigglypuff.jpg"
+}, {
+    "id": "40",
+    "name": "Wigglytuff",
+    "power": "425",
+    "url": "http://img.pokemondb.net/artwork/wigglytuff.jpg"
+}, {
+    "id": "41",
+    "name": "Zubat",
+    "power": "245",
+    "url": "http://img.pokemondb.net/artwork/zubat.jpg"
+}, {
+    "id": "42",
+    "name": "Golbat",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/golbat.jpg"
+}, {
+    "id": "43",
+    "name": "Oddish",
+    "power": "320",
+    "url": "http://img.pokemondb.net/artwork/oddish.jpg"
+}, {
+    "id": "44",
+    "name": "Gloom",
+    "power": "395",
+    "url": "http://img.pokemondb.net/artwork/gloom.jpg"
+}, {
+    "id": "45",
+    "name": "Vileplume",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/vileplume.jpg"
+}, {
+    "id": "46",
+    "name": "Paras",
+    "power": "285",
+    "url": "http://img.pokemondb.net/artwork/paras.jpg"
+}, {
+    "id": "47",
+    "name": "Parasect",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/parasect.jpg"
+}, {
+    "id": "48",
+    "name": "Venonat",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/venonat.jpg"
+}, {
+    "id": "49",
+    "name": "Venomoth",
+    "power": "450",
+    "url": "http://img.pokemondb.net/artwork/venomoth.jpg"
+}, {
+    "id": "50",
+    "name": "Diglett",
+    "power": "265",
+    "url": "http://img.pokemondb.net/artwork/diglett.jpg"
+}, {
+    "id": "51",
+    "name": "Dugtrio",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/dugtrio.jpg"
+}, {
+    "id": "52",
+    "name": "Meowth",
+    "power": "290",
+    "url": "http://img.pokemondb.net/artwork/meowth.jpg"
+}, {
+    "id": "53",
+    "name": "Persian",
+    "power": "440",
+    "url": "http://img.pokemondb.net/artwork/persian.jpg"
+}, {
+    "id": "54",
+    "name": "Psyduck",
+    "power": "320",
+    "url": "http://img.pokemondb.net/artwork/psyduck.jpg"
+}, {
+    "id": "55",
+    "name": "Golduck",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/golduck.jpg"
+}, {
+    "id": "56",
+    "name": "Mankey",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/mankey.jpg"
+}, {
+    "id": "57",
+    "name": "Primeape",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/primeape.jpg"
+}, {
+    "id": "58",
+    "name": "Growlithe",
+    "power": "350",
+    "url": "http://img.pokemondb.net/artwork/growlithe.jpg"
+}, {
+    "id": "59",
+    "name": "Arcanine",
+    "power": "555",
+    "url": "http://img.pokemondb.net/artwork/arcanine.jpg"
+}, {
+    "id": "60",
+    "name": "Poliwag",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/poliwag.jpg"
+}, {
+    "id": "61",
+    "name": "Poliwhirl",
+    "power": "385",
+    "url": "http://img.pokemondb.net/artwork/poliwhirl.jpg"
+}, {
+    "id": "62",
+    "name": "Poliwrath",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/poliwrath.jpg"
+}, {
+    "id": "63",
+    "name": "Abra",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/abra.jpg"
+}, {
+    "id": "64",
+    "name": "Kadabra",
+    "power": "400",
+    "url": "http://img.pokemondb.net/artwork/kadabra.jpg"
+}, {
+    "id": "65",
+    "name": "Alakazam",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/alakazam.jpg"
+}, {
+    "id": "66",
+    "name": "Machop",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/machop.jpg"
+}, {
+    "id": "67",
+    "name": "Machoke",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/machoke.jpg"
+}, {
+    "id": "68",
+    "name": "Machamp",
+    "power": "505",
+    "url": "http://img.pokemondb.net/artwork/machamp.jpg"
+}, {
+    "id": "69",
+    "name": "Bellsprout",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/bellsprout.jpg"
+}, {
+    "id": "70",
+    "name": "Weepinbell",
+    "power": "390",
+    "url": "http://img.pokemondb.net/artwork/weepinbell.jpg"
+}, {
+    "id": "71",
+    "name": "Victreebel",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/victreebel.jpg"
+}, {
+    "id": "72",
+    "name": "Tentacool",
+    "power": "335",
+    "url": "http://img.pokemondb.net/artwork/tentacool.jpg"
+}, {
+    "id": "73",
+    "name": "Tentacruel",
+    "power": "515",
+    "url": "http://img.pokemondb.net/artwork/tentacruel.jpg"
+}, {
+    "id": "74",
+    "name": "Geodude",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/geodude.jpg"
+}, {
+    "id": "75",
+    "name": "Graveler",
+    "power": "390",
+    "url": "http://img.pokemondb.net/artwork/graveler.jpg"
+}, {
+    "id": "76",
+    "name": "Golem",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/golem.jpg"
+}, {
+    "id": "77",
+    "name": "Ponyta",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/ponyta.jpg"
+}, {
+    "id": "78",
+    "name": "Rapidash",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/rapidash.jpg"
+}, {
+    "id": "79",
+    "name": "Slowpoke",
+    "power": "315",
+    "url": "http://img.pokemondb.net/artwork/slowpoke.jpg"
+}, {
+    "id": "80",
+    "name": "Slowbro",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/slowbro.jpg"
+}, {
+    "id": "81",
+    "name": "Magnemite",
+    "power": "325",
+    "url": "http://img.pokemondb.net/artwork/magnemite.jpg"
+}, {
+    "id": "82",
+    "name": "Magneton",
+    "power": "465",
+    "url": "http://img.pokemondb.net/artwork/magneton.jpg"
+}, {
+    "id": "83",
+    "name": "Farfetch'd",
+    "power": "352",
+    "url": "http://img.pokemondb.net/artwork/farfetchd.jpg"
+}, {
+    "id": "84",
+    "name": "Doduo",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/doduo.jpg"
+}, {
+    "id": "85",
+    "name": "Dodrio",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/dodrio.jpg"
+}, {
+    "id": "86",
+    "name": "Seel",
+    "power": "325",
+    "url": "http://img.pokemondb.net/artwork/seel.jpg"
+}, {
+    "id": "87",
+    "name": "Dewgong",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/dewgong.jpg"
+}, {
+    "id": "88",
+    "name": "Grimer",
+    "power": "325",
+    "url": "http://img.pokemondb.net/artwork/grimer.jpg"
+}, {
+    "id": "89",
+    "name": "Muk",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/muk.jpg"
+}, {
+    "id": "90",
+    "name": "Shellder",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/shellder.jpg"
+}, {
+    "id": "91",
+    "name": "Cloyster",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/cloyster.jpg"
+}, {
+    "id": "92",
+    "name": "Gastly",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/gastly.jpg"
+}, {
+    "id": "93",
+    "name": "Haunter",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/haunter.jpg"
+}, {
+    "id": "94",
+    "name": "Gengar",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/gengar.jpg"
+}, {
+    "id": "95",
+    "name": "Onix",
+    "power": "385",
+    "url": "http://img.pokemondb.net/artwork/onix.jpg"
+}, {
+    "id": "96",
+    "name": "Drowzee",
+    "power": "328",
+    "url": "http://img.pokemondb.net/artwork/drowzee.jpg"
+}, {
+    "id": "97",
+    "name": "Hypno",
+    "power": "483",
+    "url": "http://img.pokemondb.net/artwork/hypno.jpg"
+}, {
+    "id": "98",
+    "name": "Krabby",
+    "power": "325",
+    "url": "http://img.pokemondb.net/artwork/krabby.jpg"
+}, {
+    "id": "99",
+    "name": "Kingler",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/kingler.jpg"
+}, {
+    "id": "100",
+    "name": "Voltorb",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/voltorb.jpg"
+}, {
+    "id": "101",
+    "name": "Electrode",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/electrode.jpg"
+}, {
+    "id": "102",
+    "name": "Exeggcute",
+    "power": "325",
+    "url": "http://img.pokemondb.net/artwork/exeggcute.jpg"
+}, {
+    "id": "103",
+    "name": "Exeggutor",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/exeggutor.jpg"
+}, {
+    "id": "104",
+    "name": "Cubone",
+    "power": "320",
+    "url": "http://img.pokemondb.net/artwork/cubone.jpg"
+}, {
+    "id": "105",
+    "name": "Marowak",
+    "power": "425",
+    "url": "http://img.pokemondb.net/artwork/marowak.jpg"
+}, {
+    "id": "106",
+    "name": "Hitmonlee",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/hitmonlee.jpg"
+}, {
+    "id": "107",
+    "name": "Hitmonchan",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/hitmonchan.jpg"
+}, {
+    "id": "108",
+    "name": "Lickitung",
+    "power": "385",
+    "url": "http://img.pokemondb.net/artwork/lickitung.jpg"
+}, {
+    "id": "109",
+    "name": "Koffing",
+    "power": "340",
+    "url": "http://img.pokemondb.net/artwork/koffing.jpg"
+}, {
+    "id": "110",
+    "name": "Weezing",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/weezing.jpg"
+}, {
+    "id": "111",
+    "name": "Rhyhorn",
+    "power": "345",
+    "url": "http://img.pokemondb.net/artwork/rhyhorn.jpg"
+}, {
+    "id": "112",
+    "name": "Rhydon",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/rhydon.jpg"
+}, {
+    "id": "113",
+    "name": "Chansey",
+    "power": "450",
+    "url": "http://img.pokemondb.net/artwork/chansey.jpg"
+}, {
+    "id": "114",
+    "name": "Tangela",
+    "power": "435",
+    "url": "http://img.pokemondb.net/artwork/tangela.jpg"
+}, {
+    "id": "115",
+    "name": "Kangaskhan",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/kangaskhan.jpg"
+}, {
+    "id": "116",
+    "name": "Horsea",
+    "power": "295",
+    "url": "http://img.pokemondb.net/artwork/horsea.jpg"
+}, {
+    "id": "117",
+    "name": "Seadra",
+    "power": "440",
+    "url": "http://img.pokemondb.net/artwork/seadra.jpg"
+}, {
+    "id": "118",
+    "name": "Goldeen",
+    "power": "320",
+    "url": "http://img.pokemondb.net/artwork/goldeen.jpg"
+}, {
+    "id": "119",
+    "name": "Seaking",
+    "power": "450",
+    "url": "http://img.pokemondb.net/artwork/seaking.jpg"
+}, {
+    "id": "120",
+    "name": "Staryu",
+    "power": "340",
+    "url": "http://img.pokemondb.net/artwork/staryu.jpg"
+}, {
+    "id": "121",
+    "name": "Starmie",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/starmie.jpg"
+}, {
+    "id": "122",
+    "name": "Mr. Mime",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/mr-mime.jpg"
+}, {
+    "id": "123",
+    "name": "Scyther",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/scyther.jpg"
+}, {
+    "id": "124",
+    "name": "Jynx",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/jynx.jpg"
+}, {
+    "id": "125",
+    "name": "Electabuzz",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/electabuzz.jpg"
+}, {
+    "id": "126",
+    "name": "Magmar",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/magmar.jpg"
+}, {
+    "id": "127",
+    "name": "Pinsir",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/pinsir.jpg"
+}, {
+    "id": "128",
+    "name": "Tauros",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/tauros.jpg"
+}, {
+    "id": "129",
+    "name": "Magikarp",
+    "power": "200",
+    "url": "http://img.pokemondb.net/artwork/magikarp.jpg"
+}, {
+    "id": "130",
+    "name": "Gyarados",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/gyarados.jpg"
+}, {
+    "id": "131",
+    "name": "Lapras",
+    "power": "535",
+    "url": "http://img.pokemondb.net/artwork/lapras.jpg"
+}, {
+    "id": "132",
+    "name": "Ditto",
+    "power": "288",
+    "url": "http://img.pokemondb.net/artwork/ditto.jpg"
+}, {
+    "id": "133",
+    "name": "Eevee",
+    "power": "325",
+    "url": "http://img.pokemondb.net/artwork/eevee.jpg"
+}, {
+    "id": "134",
+    "name": "Vaporeon",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/vaporeon.jpg"
+}, {
+    "id": "135",
+    "name": "Jolteon",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/jolteon.jpg"
+}, {
+    "id": "136",
+    "name": "Flareon",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/flareon.jpg"
+}, {
+    "id": "137",
+    "name": "Porygon",
+    "power": "395",
+    "url": "http://img.pokemondb.net/artwork/porygon.jpg"
+}, {
+    "id": "138",
+    "name": "Omanyte",
+    "power": "355",
+    "url": "http://img.pokemondb.net/artwork/omanyte.jpg"
+}, {
+    "id": "139",
+    "name": "Omastar",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/omastar.jpg"
+}, {
+    "id": "140",
+    "name": "Kabuto",
+    "power": "355",
+    "url": "http://img.pokemondb.net/artwork/kabuto.jpg"
+}, {
+    "id": "141",
+    "name": "Kabutops",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/kabutops.jpg"
+}, {
+    "id": "142",
+    "name": "Aerodactyl",
+    "power": "515",
+    "url": "http://img.pokemondb.net/artwork/aerodactyl.jpg"
+}, {
+    "id": "143",
+    "name": "Snorlax",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/snorlax.jpg"
+}, {
+    "id": "144",
+    "name": "Articuno",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/articuno.jpg"
+}, {
+    "id": "145",
+    "name": "Zapdos",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/zapdos.jpg"
+}, {
+    "id": "146",
+    "name": "Moltres",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/moltres.jpg"
+}, {
+    "id": "147",
+    "name": "Dratini",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/dratini.jpg"
+}, {
+    "id": "148",
+    "name": "Dragonair",
+    "power": "420",
+    "url": "http://img.pokemondb.net/artwork/dragonair.jpg"
+}, {
+    "id": "149",
+    "name": "Dragonite",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/dragonite.jpg"
+}, {
+    "id": "150",
+    "name": "Mewtwo",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/mewtwo.jpg"
+}, {
+    "id": "151",
+    "name": "Mew",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/mew.jpg"
+}, {
+    "id": "152",
+    "name": "Chikorita",
+    "power": "318",
+    "url": "http://img.pokemondb.net/artwork/chikorita.jpg"
+}, {
+    "id": "153",
+    "name": "Bayleef",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/bayleef.jpg"
+}, {
+    "id": "154",
+    "name": "Meganium",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/meganium.jpg"
+}, {
+    "id": "155",
+    "name": "Cyndaquil",
+    "power": "309",
+    "url": "http://img.pokemondb.net/artwork/cyndaquil.jpg"
+}, {
+    "id": "156",
+    "name": "Quilava",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/quilava.jpg"
+}, {
+    "id": "157",
+    "name": "Typhlosion",
+    "power": "534",
+    "url": "http://img.pokemondb.net/artwork/typhlosion.jpg"
+}, {
+    "id": "158",
+    "name": "Totodile",
+    "power": "314",
+    "url": "http://img.pokemondb.net/artwork/totodile.jpg"
+}, {
+    "id": "159",
+    "name": "Croconaw",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/croconaw.jpg"
+}, {
+    "id": "160",
+    "name": "Feraligatr",
+    "power": "530",
+    "url": "http://img.pokemondb.net/artwork/feraligatr.jpg"
+}, {
+    "id": "161",
+    "name": "Sentret",
+    "power": "215",
+    "url": "http://img.pokemondb.net/artwork/sentret.jpg"
+}, {
+    "id": "162",
+    "name": "Furret",
+    "power": "415",
+    "url": "http://img.pokemondb.net/artwork/furret.jpg"
+}, {
+    "id": "163",
+    "name": "Hoothoot",
+    "power": "262",
+    "url": "http://img.pokemondb.net/artwork/hoothoot.jpg"
+}, {
+    "id": "164",
+    "name": "Noctowl",
+    "power": "442",
+    "url": "http://img.pokemondb.net/artwork/noctowl.jpg"
+}, {
+    "id": "165",
+    "name": "Ledyba",
+    "power": "265",
+    "url": "http://img.pokemondb.net/artwork/ledyba.jpg"
+}, {
+    "id": "166",
+    "name": "Ledian",
+    "power": "390",
+    "url": "http://img.pokemondb.net/artwork/ledian.jpg"
+}, {
+    "id": "167",
+    "name": "Spinarak",
+    "power": "250",
+    "url": "http://img.pokemondb.net/artwork/spinarak.jpg"
+}, {
+    "id": "168",
+    "name": "Ariados",
+    "power": "390",
+    "url": "http://img.pokemondb.net/artwork/ariados.jpg"
+}, {
+    "id": "169",
+    "name": "Crobat",
+    "power": "535",
+    "url": "http://img.pokemondb.net/artwork/crobat.jpg"
+}, {
+    "id": "170",
+    "name": "Chinchou",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/chinchou.jpg"
+}, {
+    "id": "171",
+    "name": "Lanturn",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/lanturn.jpg"
+}, {
+    "id": "172",
+    "name": "Pichu",
+    "power": "205",
+    "url": "http://img.pokemondb.net/artwork/pichu.jpg"
+}, {
+    "id": "173",
+    "name": "Cleffa",
+    "power": "218",
+    "url": "http://img.pokemondb.net/artwork/cleffa.jpg"
+}, {
+    "id": "174",
+    "name": "Igglybuff",
+    "power": "210",
+    "url": "http://img.pokemondb.net/artwork/igglybuff.jpg"
+}, {
+    "id": "175",
+    "name": "Togepi",
+    "power": "245",
+    "url": "http://img.pokemondb.net/artwork/togepi.jpg"
+}, {
+    "id": "176",
+    "name": "Togetic",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/togetic.jpg"
+}, {
+    "id": "177",
+    "name": "Natu",
+    "power": "320",
+    "url": "http://img.pokemondb.net/artwork/natu.jpg"
+}, {
+    "id": "178",
+    "name": "Xatu",
+    "power": "470",
+    "url": "http://img.pokemondb.net/artwork/xatu.jpg"
+}, {
+    "id": "179",
+    "name": "Mareep",
+    "power": "280",
+    "url": "http://img.pokemondb.net/artwork/mareep.jpg"
+}, {
+    "id": "180",
+    "name": "Flaaffy",
+    "power": "365",
+    "url": "http://img.pokemondb.net/artwork/flaaffy.jpg"
+}, {
+    "id": "181",
+    "name": "Ampharos",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/ampharos.jpg"
+}, {
+    "id": "182",
+    "name": "Bellossom",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/bellossom.jpg"
+}, {
+    "id": "183",
+    "name": "Marill",
+    "power": "250",
+    "url": "http://img.pokemondb.net/artwork/marill.jpg"
+}, {
+    "id": "184",
+    "name": "Azumarill",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/azumarill.jpg"
+}, {
+    "id": "185",
+    "name": "Sudowoodo",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/sudowoodo.jpg"
+}, {
+    "id": "186",
+    "name": "Politoed",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/politoed.jpg"
+}, {
+    "id": "187",
+    "name": "Hoppip",
+    "power": "250",
+    "url": "http://img.pokemondb.net/artwork/hoppip.jpg"
+}, {
+    "id": "188",
+    "name": "Skiploom",
+    "power": "340",
+    "url": "http://img.pokemondb.net/artwork/skiploom.jpg"
+}, {
+    "id": "189",
+    "name": "Jumpluff",
+    "power": "450",
+    "url": "http://img.pokemondb.net/artwork/jumpluff.jpg"
+}, {
+    "id": "190",
+    "name": "Aipom",
+    "power": "360",
+    "url": "http://img.pokemondb.net/artwork/aipom.jpg"
+}, {
+    "id": "191",
+    "name": "Sunkern",
+    "power": "180",
+    "url": "http://img.pokemondb.net/artwork/sunkern.jpg"
+}, {
+    "id": "192",
+    "name": "Sunflora",
+    "power": "425",
+    "url": "http://img.pokemondb.net/artwork/sunflora.jpg"
+}, {
+    "id": "193",
+    "name": "Yanma",
+    "power": "390",
+    "url": "http://img.pokemondb.net/artwork/yanma.jpg"
+}, {
+    "id": "194",
+    "name": "Wooper",
+    "power": "210",
+    "url": "http://img.pokemondb.net/artwork/wooper.jpg"
+}, {
+    "id": "195",
+    "name": "Quagsire",
+    "power": "430",
+    "url": "http://img.pokemondb.net/artwork/quagsire.jpg"
+}, {
+    "id": "196",
+    "name": "Espeon",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/espeon.jpg"
+}, {
+    "id": "197",
+    "name": "Umbreon",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/umbreon.jpg"
+}, {
+    "id": "198",
+    "name": "Murkrow",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/murkrow.jpg"
+}, {
+    "id": "199",
+    "name": "Slowking",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/slowking.jpg"
+}, {
+    "id": "200",
+    "name": "Misdreavus",
+    "power": "435",
+    "url": "http://img.pokemondb.net/artwork/misdreavus.jpg"
+}, {
+    "id": "201",
+    "name": "Unown",
+    "power": "336",
+    "url": "http://img.pokemondb.net/artwork/unown.jpg"
+}, {
+    "id": "202",
+    "name": "Wobbuffet",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/wobbuffet.jpg"
+}, {
+    "id": "203",
+    "name": "Girafarig",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/girafarig.jpg"
+}, {
+    "id": "204",
+    "name": "Pineco",
+    "power": "290",
+    "url": "http://img.pokemondb.net/artwork/pineco.jpg"
+}, {
+    "id": "205",
+    "name": "Forretress",
+    "power": "465",
+    "url": "http://img.pokemondb.net/artwork/forretress.jpg"
+}, {
+    "id": "206",
+    "name": "Dunsparce",
+    "power": "415",
+    "url": "http://img.pokemondb.net/artwork/dunsparce.jpg"
+}, {
+    "id": "207",
+    "name": "Gligar",
+    "power": "430",
+    "url": "http://img.pokemondb.net/artwork/gligar.jpg"
+}, {
+    "id": "208",
+    "name": "Steelix",
+    "power": "510",
+    "url": "http://img.pokemondb.net/artwork/steelix.jpg"
+}, {
+    "id": "209",
+    "name": "Snubbull",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/snubbull.jpg"
+}, {
+    "id": "210",
+    "name": "Granbull",
+    "power": "450",
+    "url": "http://img.pokemondb.net/artwork/granbull.jpg"
+}, {
+    "id": "211",
+    "name": "Qwilfish",
+    "power": "430",
+    "url": "http://img.pokemondb.net/artwork/qwilfish.jpg"
+}, {
+    "id": "212",
+    "name": "Scizor",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/scizor.jpg"
+}, {
+    "id": "213",
+    "name": "Shuckle",
+    "power": "505",
+    "url": "http://img.pokemondb.net/artwork/shuckle.jpg"
+}, {
+    "id": "214",
+    "name": "Heracross",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/heracross.jpg"
+}, {
+    "id": "215",
+    "name": "Sneasel",
+    "power": "430",
+    "url": "http://img.pokemondb.net/artwork/sneasel.jpg"
+}, {
+    "id": "216",
+    "name": "Teddiursa",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/teddiursa.jpg"
+}, {
+    "id": "217",
+    "name": "Ursaring",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/ursaring.jpg"
+}, {
+    "id": "218",
+    "name": "Slugma",
+    "power": "250",
+    "url": "http://img.pokemondb.net/artwork/slugma.jpg"
+}, {
+    "id": "219",
+    "name": "Magcargo",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/magcargo.jpg"
+}, {
+    "id": "220",
+    "name": "Swinub",
+    "power": "250",
+    "url": "http://img.pokemondb.net/artwork/swinub.jpg"
+}, {
+    "id": "221",
+    "name": "Piloswine",
+    "power": "450",
+    "url": "http://img.pokemondb.net/artwork/piloswine.jpg"
+}, {
+    "id": "222",
+    "name": "Corsola",
+    "power": "380",
+    "url": "http://img.pokemondb.net/artwork/corsola.jpg"
+}, {
+    "id": "223",
+    "name": "Remoraid",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/remoraid.jpg"
+}, {
+    "id": "224",
+    "name": "Octillery",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/octillery.jpg"
+}, {
+    "id": "225",
+    "name": "Delibird",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/delibird.jpg"
+}, {
+    "id": "226",
+    "name": "Mantine",
+    "power": "465",
+    "url": "http://img.pokemondb.net/artwork/mantine.jpg"
+}, {
+    "id": "227",
+    "name": "Skarmory",
+    "power": "465",
+    "url": "http://img.pokemondb.net/artwork/skarmory.jpg"
+}, {
+    "id": "228",
+    "name": "Houndour",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/houndour.jpg"
+}, {
+    "id": "229",
+    "name": "Houndoom",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/houndoom.jpg"
+}, {
+    "id": "230",
+    "name": "Kingdra",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/kingdra.jpg"
+}, {
+    "id": "231",
+    "name": "Phanpy",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/phanpy.jpg"
+}, {
+    "id": "232",
+    "name": "Donphan",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/donphan.jpg"
+}, {
+    "id": "233",
+    "name": "Porygon2",
+    "power": "515",
+    "url": "http://img.pokemondb.net/artwork/porygon2.jpg"
+}, {
+    "id": "234",
+    "name": "Stantler",
+    "power": "465",
+    "url": "http://img.pokemondb.net/artwork/stantler.jpg"
+}, {
+    "id": "235",
+    "name": "Smeargle",
+    "power": "250",
+    "url": "http://img.pokemondb.net/artwork/smeargle.jpg"
+}, {
+    "id": "236",
+    "name": "Tyrogue",
+    "power": "210",
+    "url": "http://img.pokemondb.net/artwork/tyrogue.jpg"
+}, {
+    "id": "237",
+    "name": "Hitmontop",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/hitmontop.jpg"
+}, {
+    "id": "238",
+    "name": "Smoochum",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/smoochum.jpg"
+}, {
+    "id": "239",
+    "name": "Elekid",
+    "power": "360",
+    "url": "http://img.pokemondb.net/artwork/elekid.jpg"
+}, {
+    "id": "240",
+    "name": "Magby",
+    "power": "365",
+    "url": "http://img.pokemondb.net/artwork/magby.jpg"
+}, {
+    "id": "241",
+    "name": "Miltank",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/miltank.jpg"
+}, {
+    "id": "242",
+    "name": "Blissey",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/blissey.jpg"
+}, {
+    "id": "243",
+    "name": "Raikou",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/raikou.jpg"
+}, {
+    "id": "244",
+    "name": "Entei",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/entei.jpg"
+}, {
+    "id": "245",
+    "name": "Suicune",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/suicune.jpg"
+}, {
+    "id": "246",
+    "name": "Larvitar",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/larvitar.jpg"
+}, {
+    "id": "247",
+    "name": "Pupitar",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/pupitar.jpg"
+}, {
+    "id": "248",
+    "name": "Tyranitar",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/tyranitar.jpg"
+}, {
+    "id": "249",
+    "name": "Lugia",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/lugia.jpg"
+}, {
+    "id": "250",
+    "name": "Ho-oh",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/ho-oh.jpg"
+}, {
+    "id": "251",
+    "name": "Celebi",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/celebi.jpg"
+}, {
+    "id": "252",
+    "name": "Treecko",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/treecko.jpg"
+}, {
+    "id": "253",
+    "name": "Grovyle",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/grovyle.jpg"
+}, {
+    "id": "254",
+    "name": "Sceptile",
+    "power": "530",
+    "url": "http://img.pokemondb.net/artwork/sceptile.jpg"
+}, {
+    "id": "255",
+    "name": "Torchic",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/torchic.jpg"
+}, {
+    "id": "256",
+    "name": "Combusken",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/combusken.jpg"
+}, {
+    "id": "257",
+    "name": "Blaziken",
+    "power": "530",
+    "url": "http://img.pokemondb.net/artwork/blaziken.jpg"
+}, {
+    "id": "258",
+    "name": "Mudkip",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/mudkip.jpg"
+}, {
+    "id": "259",
+    "name": "Marshtomp",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/marshtomp.jpg"
+}, {
+    "id": "260",
+    "name": "Swampert",
+    "power": "535",
+    "url": "http://img.pokemondb.net/artwork/swampert.jpg"
+}, {
+    "id": "261",
+    "name": "Poochyena",
+    "power": "220",
+    "url": "http://img.pokemondb.net/artwork/poochyena.jpg"
+}, {
+    "id": "262",
+    "name": "Mightyena",
+    "power": "420",
+    "url": "http://img.pokemondb.net/artwork/mightyena.jpg"
+}, {
+    "id": "263",
+    "name": "Zigzagoon",
+    "power": "240",
+    "url": "http://img.pokemondb.net/artwork/zigzagoon.jpg"
+}, {
+    "id": "264",
+    "name": "Linoone",
+    "power": "420",
+    "url": "http://img.pokemondb.net/artwork/linoone.jpg"
+}, {
+    "id": "265",
+    "name": "Wurmple",
+    "power": "195",
+    "url": "http://img.pokemondb.net/artwork/wurmple.jpg"
+}, {
+    "id": "266",
+    "name": "Silcoon",
+    "power": "205",
+    "url": "http://img.pokemondb.net/artwork/silcoon.jpg"
+}, {
+    "id": "267",
+    "name": "Beautifly",
+    "power": "385",
+    "url": "http://img.pokemondb.net/artwork/beautifly.jpg"
+}, {
+    "id": "268",
+    "name": "Cascoon",
+    "power": "205",
+    "url": "http://img.pokemondb.net/artwork/cascoon.jpg"
+}, {
+    "id": "269",
+    "name": "Dustox",
+    "power": "385",
+    "url": "http://img.pokemondb.net/artwork/dustox.jpg"
+}, {
+    "id": "270",
+    "name": "Lotad",
+    "power": "220",
+    "url": "http://img.pokemondb.net/artwork/lotad.jpg"
+}, {
+    "id": "271",
+    "name": "Lombre",
+    "power": "340",
+    "url": "http://img.pokemondb.net/artwork/lombre.jpg"
+}, {
+    "id": "272",
+    "name": "Ludicolo",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/ludicolo.jpg"
+}, {
+    "id": "273",
+    "name": "Seedot",
+    "power": "220",
+    "url": "http://img.pokemondb.net/artwork/seedot.jpg"
+}, {
+    "id": "274",
+    "name": "Nuzleaf",
+    "power": "340",
+    "url": "http://img.pokemondb.net/artwork/nuzleaf.jpg"
+}, {
+    "id": "275",
+    "name": "Shiftry",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/shiftry.jpg"
+}, {
+    "id": "276",
+    "name": "Taillow",
+    "power": "270",
+    "url": "http://img.pokemondb.net/artwork/taillow.jpg"
+}, {
+    "id": "277",
+    "name": "Swellow",
+    "power": "430",
+    "url": "http://img.pokemondb.net/artwork/swellow.jpg"
+}, {
+    "id": "278",
+    "name": "Wingull",
+    "power": "270",
+    "url": "http://img.pokemondb.net/artwork/wingull.jpg"
+}, {
+    "id": "279",
+    "name": "Pelipper",
+    "power": "430",
+    "url": "http://img.pokemondb.net/artwork/pelipper.jpg"
+}, {
+    "id": "280",
+    "name": "Ralts",
+    "power": "198",
+    "url": "http://img.pokemondb.net/artwork/ralts.jpg"
+}, {
+    "id": "281",
+    "name": "Kirlia",
+    "power": "278",
+    "url": "http://img.pokemondb.net/artwork/kirlia.jpg"
+}, {
+    "id": "282",
+    "name": "Gardevoir",
+    "power": "518",
+    "url": "http://img.pokemondb.net/artwork/gardevoir.jpg"
+}, {
+    "id": "283",
+    "name": "Surskit",
+    "power": "269",
+    "url": "http://img.pokemondb.net/artwork/surskit.jpg"
+}, {
+    "id": "284",
+    "name": "Masquerain",
+    "power": "414",
+    "url": "http://img.pokemondb.net/artwork/masquerain.jpg"
+}, {
+    "id": "285",
+    "name": "Shroomish",
+    "power": "295",
+    "url": "http://img.pokemondb.net/artwork/shroomish.jpg"
+}, {
+    "id": "286",
+    "name": "Breloom",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/breloom.jpg"
+}, {
+    "id": "287",
+    "name": "Slakoth",
+    "power": "280",
+    "url": "http://img.pokemondb.net/artwork/slakoth.jpg"
+}, {
+    "id": "288",
+    "name": "Vigoroth",
+    "power": "440",
+    "url": "http://img.pokemondb.net/artwork/vigoroth.jpg"
+}, {
+    "id": "289",
+    "name": "Slaking",
+    "power": "670",
+    "url": "http://img.pokemondb.net/artwork/slaking.jpg"
+}, {
+    "id": "290",
+    "name": "Nincada",
+    "power": "266",
+    "url": "http://img.pokemondb.net/artwork/nincada.jpg"
+}, {
+    "id": "291",
+    "name": "Ninjask",
+    "power": "456",
+    "url": "http://img.pokemondb.net/artwork/ninjask.jpg"
+}, {
+    "id": "292",
+    "name": "Shedinja",
+    "power": "236",
+    "url": "http://img.pokemondb.net/artwork/shedinja.jpg"
+}, {
+    "id": "293",
+    "name": "Whismur",
+    "power": "240",
+    "url": "http://img.pokemondb.net/artwork/whismur.jpg"
+}, {
+    "id": "294",
+    "name": "Loudred",
+    "power": "360",
+    "url": "http://img.pokemondb.net/artwork/loudred.jpg"
+}, {
+    "id": "295",
+    "name": "Exploud",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/exploud.jpg"
+}, {
+    "id": "296",
+    "name": "Makuhita",
+    "power": "237",
+    "url": "http://img.pokemondb.net/artwork/makuhita.jpg"
+}, {
+    "id": "297",
+    "name": "Hariyama",
+    "power": "474",
+    "url": "http://img.pokemondb.net/artwork/hariyama.jpg"
+}, {
+    "id": "298",
+    "name": "Azurill",
+    "power": "190",
+    "url": "http://img.pokemondb.net/artwork/azurill.jpg"
+}, {
+    "id": "299",
+    "name": "Nosepass",
+    "power": "375",
+    "url": "http://img.pokemondb.net/artwork/nosepass.jpg"
+}, {
+    "id": "300",
+    "name": "Skitty",
+    "power": "260",
+    "url": "http://img.pokemondb.net/artwork/skitty.jpg"
+}, {
+    "id": "301",
+    "name": "Delcatty",
+    "power": "380",
+    "url": "http://img.pokemondb.net/artwork/delcatty.jpg"
+}, {
+    "id": "302",
+    "name": "Sableye",
+    "power": "380",
+    "url": "http://img.pokemondb.net/artwork/sableye.jpg"
+}, {
+    "id": "303",
+    "name": "Mawile",
+    "power": "380",
+    "url": "http://img.pokemondb.net/artwork/mawile.jpg"
+}, {
+    "id": "304",
+    "name": "Aron",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/aron.jpg"
+}, {
+    "id": "305",
+    "name": "Lairon",
+    "power": "430",
+    "url": "http://img.pokemondb.net/artwork/lairon.jpg"
+}, {
+    "id": "306",
+    "name": "Aggron",
+    "power": "530",
+    "url": "http://img.pokemondb.net/artwork/aggron.jpg"
+}, {
+    "id": "307",
+    "name": "Meditite",
+    "power": "280",
+    "url": "http://img.pokemondb.net/artwork/meditite.jpg"
+}, {
+    "id": "308",
+    "name": "Medicham",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/medicham.jpg"
+}, {
+    "id": "309",
+    "name": "Electrike",
+    "power": "295",
+    "url": "http://img.pokemondb.net/artwork/electrike.jpg"
+}, {
+    "id": "310",
+    "name": "Manectric",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/manectric.jpg"
+}, {
+    "id": "311",
+    "name": "Plusle",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/plusle.jpg"
+}, {
+    "id": "312",
+    "name": "Minun",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/minun.jpg"
+}, {
+    "id": "313",
+    "name": "Volbeat",
+    "power": "400",
+    "url": "http://img.pokemondb.net/artwork/volbeat.jpg"
+}, {
+    "id": "314",
+    "name": "Illumise",
+    "power": "400",
+    "url": "http://img.pokemondb.net/artwork/illumise.jpg"
+}, {
+    "id": "315",
+    "name": "Roselia",
+    "power": "400",
+    "url": "http://img.pokemondb.net/artwork/roselia.jpg"
+}, {
+    "id": "316",
+    "name": "Gulpin",
+    "power": "302",
+    "url": "http://img.pokemondb.net/artwork/gulpin.jpg"
+}, {
+    "id": "317",
+    "name": "Swalot",
+    "power": "467",
+    "url": "http://img.pokemondb.net/artwork/swalot.jpg"
+}, {
+    "id": "318",
+    "name": "Carvanha",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/carvanha.jpg"
+}, {
+    "id": "319",
+    "name": "Sharpedo",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/sharpedo.jpg"
+}, {
+    "id": "320",
+    "name": "Wailmer",
+    "power": "400",
+    "url": "http://img.pokemondb.net/artwork/wailmer.jpg"
+}, {
+    "id": "321",
+    "name": "Wailord",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/wailord.jpg"
+}, {
+    "id": "322",
+    "name": "Numel",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/numel.jpg"
+}, {
+    "id": "323",
+    "name": "Camerupt",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/camerupt.jpg"
+}, {
+    "id": "324",
+    "name": "Torkoal",
+    "power": "470",
+    "url": "http://img.pokemondb.net/artwork/torkoal.jpg"
+}, {
+    "id": "325",
+    "name": "Spoink",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/spoink.jpg"
+}, {
+    "id": "326",
+    "name": "Grumpig",
+    "power": "470",
+    "url": "http://img.pokemondb.net/artwork/grumpig.jpg"
+}, {
+    "id": "327",
+    "name": "Spinda",
+    "power": "360",
+    "url": "http://img.pokemondb.net/artwork/spinda.jpg"
+}, {
+    "id": "328",
+    "name": "Trapinch",
+    "power": "290",
+    "url": "http://img.pokemondb.net/artwork/trapinch.jpg"
+}, {
+    "id": "329",
+    "name": "Vibrava",
+    "power": "340",
+    "url": "http://img.pokemondb.net/artwork/vibrava.jpg"
+}, {
+    "id": "330",
+    "name": "Flygon",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/flygon.jpg"
+}, {
+    "id": "331",
+    "name": "Cacnea",
+    "power": "335",
+    "url": "http://img.pokemondb.net/artwork/cacnea.jpg"
+}, {
+    "id": "332",
+    "name": "Cacturne",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/cacturne.jpg"
+}, {
+    "id": "333",
+    "name": "Swablu",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/swablu.jpg"
+}, {
+    "id": "334",
+    "name": "Altaria",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/altaria.jpg"
+}, {
+    "id": "335",
+    "name": "Zangoose",
+    "power": "458",
+    "url": "http://img.pokemondb.net/artwork/zangoose.jpg"
+}, {
+    "id": "336",
+    "name": "Seviper",
+    "power": "458",
+    "url": "http://img.pokemondb.net/artwork/seviper.jpg"
+}, {
+    "id": "337",
+    "name": "Lunatone",
+    "power": "440",
+    "url": "http://img.pokemondb.net/artwork/lunatone.jpg"
+}, {
+    "id": "338",
+    "name": "Solrock",
+    "power": "440",
+    "url": "http://img.pokemondb.net/artwork/solrock.jpg"
+}, {
+    "id": "339",
+    "name": "Barboach",
+    "power": "288",
+    "url": "http://img.pokemondb.net/artwork/barboach.jpg"
+}, {
+    "id": "340",
+    "name": "Whiscash",
+    "power": "468",
+    "url": "http://img.pokemondb.net/artwork/whiscash.jpg"
+}, {
+    "id": "341",
+    "name": "Corphish",
+    "power": "308",
+    "url": "http://img.pokemondb.net/artwork/corphish.jpg"
+}, {
+    "id": "342",
+    "name": "Crawdaunt",
+    "power": "468",
+    "url": "http://img.pokemondb.net/artwork/crawdaunt.jpg"
+}, {
+    "id": "343",
+    "name": "Baltoy",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/baltoy.jpg"
+}, {
+    "id": "344",
+    "name": "Claydol",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/claydol.jpg"
+}, {
+    "id": "345",
+    "name": "Lileep",
+    "power": "355",
+    "url": "http://img.pokemondb.net/artwork/lileep.jpg"
+}, {
+    "id": "346",
+    "name": "Cradily",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/cradily.jpg"
+}, {
+    "id": "347",
+    "name": "Anorith",
+    "power": "355",
+    "url": "http://img.pokemondb.net/artwork/anorith.jpg"
+}, {
+    "id": "348",
+    "name": "Armaldo",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/armaldo.jpg"
+}, {
+    "id": "349",
+    "name": "Feebas",
+    "power": "200",
+    "url": "http://img.pokemondb.net/artwork/feebas.jpg"
+}, {
+    "id": "350",
+    "name": "Milotic",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/milotic.jpg"
+}, {
+    "id": "351",
+    "name": "Castform",
+    "power": "420",
+    "url": "http://img.pokemondb.net/artwork/castform.jpg"
+}, {
+    "id": "352",
+    "name": "Kecleon",
+    "power": "440",
+    "url": "http://img.pokemondb.net/artwork/kecleon.jpg"
+}, {
+    "id": "353",
+    "name": "Shuppet",
+    "power": "295",
+    "url": "http://img.pokemondb.net/artwork/shuppet.jpg"
+}, {
+    "id": "354",
+    "name": "Banette",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/banette.jpg"
+}, {
+    "id": "355",
+    "name": "Duskull",
+    "power": "295",
+    "url": "http://img.pokemondb.net/artwork/duskull.jpg"
+}, {
+    "id": "356",
+    "name": "Dusclops",
+    "power": "455",
+    "url": "http://img.pokemondb.net/artwork/dusclops.jpg"
+}, {
+    "id": "357",
+    "name": "Tropius",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/tropius.jpg"
+}, {
+    "id": "358",
+    "name": "Chimecho",
+    "power": "425",
+    "url": "http://img.pokemondb.net/artwork/chimecho.jpg"
+}, {
+    "id": "359",
+    "name": "Absol",
+    "power": "465",
+    "url": "http://img.pokemondb.net/artwork/absol.jpg"
+}, {
+    "id": "360",
+    "name": "Wynaut",
+    "power": "260",
+    "url": "http://img.pokemondb.net/artwork/wynaut.jpg"
+}, {
+    "id": "361",
+    "name": "Snorunt",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/snorunt.jpg"
+}, {
+    "id": "362",
+    "name": "Glalie",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/glalie.jpg"
+}, {
+    "id": "363",
+    "name": "Spheal",
+    "power": "290",
+    "url": "http://img.pokemondb.net/artwork/spheal.jpg"
+}, {
+    "id": "364",
+    "name": "Sealeo",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/sealeo.jpg"
+}, {
+    "id": "365",
+    "name": "Walrein",
+    "power": "530",
+    "url": "http://img.pokemondb.net/artwork/walrein.jpg"
+}, {
+    "id": "366",
+    "name": "Clamperl",
+    "power": "345",
+    "url": "http://img.pokemondb.net/artwork/clamperl.jpg"
+}, {
+    "id": "367",
+    "name": "Huntail",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/huntail.jpg"
+}, {
+    "id": "368",
+    "name": "Gorebyss",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/gorebyss.jpg"
+}, {
+    "id": "369",
+    "name": "Relicanth",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/relicanth.jpg"
+}, {
+    "id": "370",
+    "name": "Luvdisc",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/luvdisc.jpg"
+}, {
+    "id": "371",
+    "name": "Bagon",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/bagon.jpg"
+}, {
+    "id": "372",
+    "name": "Shelgon",
+    "power": "420",
+    "url": "http://img.pokemondb.net/artwork/shelgon.jpg"
+}, {
+    "id": "373",
+    "name": "Salamence",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/salamence.jpg"
+}, {
+    "id": "374",
+    "name": "Beldum",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/beldum.jpg"
+}, {
+    "id": "375",
+    "name": "Metang",
+    "power": "420",
+    "url": "http://img.pokemondb.net/artwork/metang.jpg"
+}, {
+    "id": "376",
+    "name": "Metagross",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/metagross.jpg"
+}, {
+    "id": "377",
+    "name": "Regirock",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/regirock.jpg"
+}, {
+    "id": "378",
+    "name": "Regice",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/regice.jpg"
+}, {
+    "id": "379",
+    "name": "Registeel",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/registeel.jpg"
+}, {
+    "id": "380",
+    "name": "Latias",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/latias.jpg"
+}, {
+    "id": "381",
+    "name": "Latios",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/latios.jpg"
+}, {
+    "id": "382",
+    "name": "Kyogre",
+    "power": "670",
+    "url": "http://img.pokemondb.net/artwork/kyogre.jpg"
+}, {
+    "id": "383",
+    "name": "Groudon",
+    "power": "670",
+    "url": "http://img.pokemondb.net/artwork/groudon.jpg"
+}, {
+    "id": "384",
+    "name": "Rayquaza",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/rayquaza.jpg"
+}, {
+    "id": "385",
+    "name": "Jirachi",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/jirachi.jpg"
+}, {
+    "id": "386",
+    "name": "Deoxys",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/deoxys.jpg"
+}, {
+    "id": "386",
+    "name": "Deoxys",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/deoxys.jpg"
+}, {
+    "id": "386",
+    "name": "Deoxys",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/deoxys.jpg"
+}, {
+    "id": "386",
+    "name": "Deoxys",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/deoxys.jpg"
+}, {
+    "id": "387",
+    "name": "Turtwig",
+    "power": "318",
+    "url": "http://img.pokemondb.net/artwork/turtwig.jpg"
+}, {
+    "id": "388",
+    "name": "Grotle",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/grotle.jpg"
+}, {
+    "id": "389",
+    "name": "Torterra",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/torterra.jpg"
+}, {
+    "id": "390",
+    "name": "Chimchar",
+    "power": "309",
+    "url": "http://img.pokemondb.net/artwork/chimchar.jpg"
+}, {
+    "id": "391",
+    "name": "Monferno",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/monferno.jpg"
+}, {
+    "id": "392",
+    "name": "Infernape",
+    "power": "534",
+    "url": "http://img.pokemondb.net/artwork/infernape.jpg"
+}, {
+    "id": "393",
+    "name": "Piplup",
+    "power": "314",
+    "url": "http://img.pokemondb.net/artwork/piplup.jpg"
+}, {
+    "id": "394",
+    "name": "Prinplup",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/prinplup.jpg"
+}, {
+    "id": "395",
+    "name": "Empoleon",
+    "power": "530",
+    "url": "http://img.pokemondb.net/artwork/empoleon.jpg"
+}, {
+    "id": "396",
+    "name": "Starly",
+    "power": "245",
+    "url": "http://img.pokemondb.net/artwork/starly.jpg"
+}, {
+    "id": "397",
+    "name": "Staravia",
+    "power": "340",
+    "url": "http://img.pokemondb.net/artwork/staravia.jpg"
+}, {
+    "id": "398",
+    "name": "Staraptor",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/staraptor.jpg"
+}, {
+    "id": "399",
+    "name": "Bidoof",
+    "power": "250",
+    "url": "http://img.pokemondb.net/artwork/bidoof.jpg"
+}, {
+    "id": "400",
+    "name": "Bibarel",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/bibarel.jpg"
+}, {
+    "id": "401",
+    "name": "Kricketot",
+    "power": "194",
+    "url": "http://img.pokemondb.net/artwork/kricketot.jpg"
+}, {
+    "id": "402",
+    "name": "Kricketune",
+    "power": "384",
+    "url": "http://img.pokemondb.net/artwork/kricketune.jpg"
+}, {
+    "id": "403",
+    "name": "Shinx",
+    "power": "263",
+    "url": "http://img.pokemondb.net/artwork/shinx.jpg"
+}, {
+    "id": "404",
+    "name": "Luxio",
+    "power": "363",
+    "url": "http://img.pokemondb.net/artwork/luxio.jpg"
+}, {
+    "id": "405",
+    "name": "Luxray",
+    "power": "523",
+    "url": "http://img.pokemondb.net/artwork/luxray.jpg"
+}, {
+    "id": "406",
+    "name": "Budew",
+    "power": "280",
+    "url": "http://img.pokemondb.net/artwork/budew.jpg"
+}, {
+    "id": "407",
+    "name": "Roserade",
+    "power": "505",
+    "url": "http://img.pokemondb.net/artwork/roserade.jpg"
+}, {
+    "id": "408",
+    "name": "Cranidos",
+    "power": "350",
+    "url": "http://img.pokemondb.net/artwork/cranidos.jpg"
+}, {
+    "id": "409",
+    "name": "Rampardos",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/rampardos.jpg"
+}, {
+    "id": "410",
+    "name": "Shieldon",
+    "power": "350",
+    "url": "http://img.pokemondb.net/artwork/shieldon.jpg"
+}, {
+    "id": "411",
+    "name": "Bastiodon",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/bastiodon.jpg"
+}, {
+    "id": "412",
+    "name": "Burmy",
+    "power": "224",
+    "url": "http://img.pokemondb.net/artwork/burmy.jpg"
+}, {
+    "id": "413",
+    "name": "Wormadam",
+    "power": "424",
+    "url": "http://img.pokemondb.net/artwork/wormadam.jpg"
+}, {
+    "id": "413",
+    "name": "Wormadam",
+    "power": "424",
+    "url": "http://img.pokemondb.net/artwork/wormadam.jpg"
+}, {
+    "id": "413",
+    "name": "Wormadam",
+    "power": "424",
+    "url": "http://img.pokemondb.net/artwork/wormadam.jpg"
+}, {
+    "id": "414",
+    "name": "Mothim",
+    "power": "424",
+    "url": "http://img.pokemondb.net/artwork/mothim.jpg"
+}, {
+    "id": "415",
+    "name": "Combee",
+    "power": "244",
+    "url": "http://img.pokemondb.net/artwork/combee.jpg"
+}, {
+    "id": "416",
+    "name": "Vespiquen",
+    "power": "474",
+    "url": "http://img.pokemondb.net/artwork/vespiquen.jpg"
+}, {
+    "id": "417",
+    "name": "Pachirisu",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/pachirisu.jpg"
+}, {
+    "id": "418",
+    "name": "Buizel",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/buizel.jpg"
+}, {
+    "id": "419",
+    "name": "Floatzel",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/floatzel.jpg"
+}, {
+    "id": "420",
+    "name": "Cherubi",
+    "power": "275",
+    "url": "http://img.pokemondb.net/artwork/cherubi.jpg"
+}, {
+    "id": "421",
+    "name": "Cherrim",
+    "power": "450",
+    "url": "http://img.pokemondb.net/artwork/cherrim.jpg"
+}, {
+    "id": "422",
+    "name": "Shellos",
+    "power": "325",
+    "url": "http://img.pokemondb.net/artwork/shellos.jpg"
+}, {
+    "id": "423",
+    "name": "Gastrodon",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/gastrodon.jpg"
+}, {
+    "id": "424",
+    "name": "Ambipom",
+    "power": "482",
+    "url": "http://img.pokemondb.net/artwork/ambipom.jpg"
+}, {
+    "id": "425",
+    "name": "Drifloon",
+    "power": "348",
+    "url": "http://img.pokemondb.net/artwork/drifloon.jpg"
+}, {
+    "id": "426",
+    "name": "Drifblim",
+    "power": "498",
+    "url": "http://img.pokemondb.net/artwork/drifblim.jpg"
+}, {
+    "id": "427",
+    "name": "Buneary",
+    "power": "350",
+    "url": "http://img.pokemondb.net/artwork/buneary.jpg"
+}, {
+    "id": "428",
+    "name": "Lopunny",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/lopunny.jpg"
+}, {
+    "id": "429",
+    "name": "Mismagius",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/mismagius.jpg"
+}, {
+    "id": "430",
+    "name": "Honchkrow",
+    "power": "505",
+    "url": "http://img.pokemondb.net/artwork/honchkrow.jpg"
+}, {
+    "id": "431",
+    "name": "Glameow",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/glameow.jpg"
+}, {
+    "id": "432",
+    "name": "Purugly",
+    "power": "452",
+    "url": "http://img.pokemondb.net/artwork/purugly.jpg"
+}, {
+    "id": "433",
+    "name": "Chingling",
+    "power": "285",
+    "url": "http://img.pokemondb.net/artwork/chingling.jpg"
+}, {
+    "id": "434",
+    "name": "Stunky",
+    "power": "329",
+    "url": "http://img.pokemondb.net/artwork/stunky.jpg"
+}, {
+    "id": "435",
+    "name": "Skuntank",
+    "power": "479",
+    "url": "http://img.pokemondb.net/artwork/skuntank.jpg"
+}, {
+    "id": "436",
+    "name": "Bronzor",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/bronzor.jpg"
+}, {
+    "id": "437",
+    "name": "Bronzong",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/bronzong.jpg"
+}, {
+    "id": "438",
+    "name": "Bonsly",
+    "power": "290",
+    "url": "http://img.pokemondb.net/artwork/bonsly.jpg"
+}, {
+    "id": "439",
+    "name": "Mime Jr.",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/mime-jr.jpg"
+}, {
+    "id": "440",
+    "name": "Happiny",
+    "power": "220",
+    "url": "http://img.pokemondb.net/artwork/happiny.jpg"
+}, {
+    "id": "441",
+    "name": "Chatot",
+    "power": "411",
+    "url": "http://img.pokemondb.net/artwork/chatot.jpg"
+}, {
+    "id": "442",
+    "name": "Spiritomb",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/spiritomb.jpg"
+}, {
+    "id": "443",
+    "name": "Gible",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/gible.jpg"
+}, {
+    "id": "444",
+    "name": "Gabite",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/gabite.jpg"
+}, {
+    "id": "445",
+    "name": "Garchomp",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/garchomp.jpg"
+}, {
+    "id": "446",
+    "name": "Munchlax",
+    "power": "390",
+    "url": "http://img.pokemondb.net/artwork/munchlax.jpg"
+}, {
+    "id": "447",
+    "name": "Riolu",
+    "power": "285",
+    "url": "http://img.pokemondb.net/artwork/riolu.jpg"
+}, {
+    "id": "448",
+    "name": "Lucario",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/lucario.jpg"
+}, {
+    "id": "449",
+    "name": "Hippopotas",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/hippopotas.jpg"
+}, {
+    "id": "450",
+    "name": "Hippowdon",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/hippowdon.jpg"
+}, {
+    "id": "451",
+    "name": "Skorupi",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/skorupi.jpg"
+}, {
+    "id": "452",
+    "name": "Drapion",
+    "power": "500",
+    "url": "http://img.pokemondb.net/artwork/drapion.jpg"
+}, {
+    "id": "453",
+    "name": "Croagunk",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/croagunk.jpg"
+}, {
+    "id": "454",
+    "name": "Toxicroak",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/toxicroak.jpg"
+}, {
+    "id": "455",
+    "name": "Carnivine",
+    "power": "454",
+    "url": "http://img.pokemondb.net/artwork/carnivine.jpg"
+}, {
+    "id": "456",
+    "name": "Finneon",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/finneon.jpg"
+}, {
+    "id": "457",
+    "name": "Lumineon",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/lumineon.jpg"
+}, {
+    "id": "458",
+    "name": "Mantyke",
+    "power": "345",
+    "url": "http://img.pokemondb.net/artwork/mantyke.jpg"
+}, {
+    "id": "459",
+    "name": "Snover",
+    "power": "334",
+    "url": "http://img.pokemondb.net/artwork/snover.jpg"
+}, {
+    "id": "460",
+    "name": "Abomasnow",
+    "power": "494",
+    "url": "http://img.pokemondb.net/artwork/abomasnow.jpg"
+}, {
+    "id": "461",
+    "name": "Weavile",
+    "power": "510",
+    "url": "http://img.pokemondb.net/artwork/weavile.jpg"
+}, {
+    "id": "462",
+    "name": "Magnezone",
+    "power": "535",
+    "url": "http://img.pokemondb.net/artwork/magnezone.jpg"
+}, {
+    "id": "463",
+    "name": "Lickilicky",
+    "power": "515",
+    "url": "http://img.pokemondb.net/artwork/lickilicky.jpg"
+}, {
+    "id": "464",
+    "name": "Rhyperior",
+    "power": "535",
+    "url": "http://img.pokemondb.net/artwork/rhyperior.jpg"
+}, {
+    "id": "465",
+    "name": "Tangrowth",
+    "power": "535",
+    "url": "http://img.pokemondb.net/artwork/tangrowth.jpg"
+}, {
+    "id": "466",
+    "name": "Electivire",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/electivire.jpg"
+}, {
+    "id": "467",
+    "name": "Magmortar",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/magmortar.jpg"
+}, {
+    "id": "468",
+    "name": "Togekiss",
+    "power": "545",
+    "url": "http://img.pokemondb.net/artwork/togekiss.jpg"
+}, {
+    "id": "469",
+    "name": "Yanmega",
+    "power": "515",
+    "url": "http://img.pokemondb.net/artwork/yanmega.jpg"
+}, {
+    "id": "470",
+    "name": "Leafeon",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/leafeon.jpg"
+}, {
+    "id": "471",
+    "name": "Glaceon",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/glaceon.jpg"
+}, {
+    "id": "472",
+    "name": "Gliscor",
+    "power": "510",
+    "url": "http://img.pokemondb.net/artwork/gliscor.jpg"
+}, {
+    "id": "473",
+    "name": "Mamoswine",
+    "power": "530",
+    "url": "http://img.pokemondb.net/artwork/mamoswine.jpg"
+}, {
+    "id": "474",
+    "name": "Porygon-Z",
+    "power": "535",
+    "url": "http://img.pokemondb.net/artwork/porygon-z.jpg"
+}, {
+    "id": "475",
+    "name": "Gallade",
+    "power": "518",
+    "url": "http://img.pokemondb.net/artwork/gallade.jpg"
+}, {
+    "id": "476",
+    "name": "Probopass",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/probopass.jpg"
+}, {
+    "id": "477",
+    "name": "Dusknoir",
+    "power": "525",
+    "url": "http://img.pokemondb.net/artwork/dusknoir.jpg"
+}, {
+    "id": "478",
+    "name": "Froslass",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/froslass.jpg"
+}, {
+    "id": "479",
+    "name": "Rotom",
+    "power": "440",
+    "url": "http://img.pokemondb.net/artwork/rotom.jpg"
+}, {
+    "id": "479",
+    "name": "Rotom",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/rotom.jpg"
+}, {
+    "id": "479",
+    "name": "Rotom",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/rotom.jpg"
+}, {
+    "id": "479",
+    "name": "Rotom",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/rotom.jpg"
+}, {
+    "id": "479",
+    "name": "Rotom",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/rotom.jpg"
+}, {
+    "id": "479",
+    "name": "Rotom",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/rotom.jpg"
+}, {
+    "id": "480",
+    "name": "Uxie",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/uxie.jpg"
+}, {
+    "id": "481",
+    "name": "Mesprit",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/mesprit.jpg"
+}, {
+    "id": "482",
+    "name": "Azelf",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/azelf.jpg"
+}, {
+    "id": "483",
+    "name": "Dialga",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/dialga.jpg"
+}, {
+    "id": "484",
+    "name": "Palkia",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/palkia.jpg"
+}, {
+    "id": "485",
+    "name": "Heatran",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/heatran.jpg"
+}, {
+    "id": "486",
+    "name": "Regigigas",
+    "power": "670",
+    "url": "http://img.pokemondb.net/artwork/regigigas.jpg"
+}, {
+    "id": "487",
+    "name": "Giratina",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/giratina.jpg"
+}, {
+    "id": "487",
+    "name": "Giratina",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/giratina.jpg"
+}, {
+    "id": "488",
+    "name": "Cresselia",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/cresselia.jpg"
+}, {
+    "id": "489",
+    "name": "Phione",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/phione.jpg"
+}, {
+    "id": "490",
+    "name": "Manaphy",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/manaphy.jpg"
+}, {
+    "id": "491",
+    "name": "Darkrai",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/darkrai.jpg"
+}, {
+    "id": "492",
+    "name": "Shaymin",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/shaymin.jpg"
+}, {
+    "id": "492",
+    "name": "Shaymin",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/shaymin.jpg"
+}, {
+    "id": "493",
+    "name": "Arceus",
+    "power": "720",
+    "url": "http://img.pokemondb.net/artwork/arceus.jpg"
+}, {
+    "id": "494",
+    "name": "Victini",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/victini.jpg"
+}, {
+    "id": "495",
+    "name": "Snivy",
+    "power": "308",
+    "url": "http://img.pokemondb.net/artwork/snivy.jpg"
+}, {
+    "id": "496",
+    "name": "Servine",
+    "power": "413",
+    "url": "http://img.pokemondb.net/artwork/servine.jpg"
+}, {
+    "id": "497",
+    "name": "Serperior",
+    "power": "528",
+    "url": "http://img.pokemondb.net/artwork/serperior.jpg"
+}, {
+    "id": "498",
+    "name": "Tepig",
+    "power": "308",
+    "url": "http://img.pokemondb.net/artwork/tepig.jpg"
+}, {
+    "id": "499",
+    "name": "Pignite",
+    "power": "418",
+    "url": "http://img.pokemondb.net/artwork/pignite.jpg"
+}, {
+    "id": "500",
+    "name": "Emboar",
+    "power": "528",
+    "url": "http://img.pokemondb.net/artwork/emboar.jpg"
+}, {
+    "id": "501",
+    "name": "Oshawott",
+    "power": "308",
+    "url": "http://img.pokemondb.net/artwork/oshawott.jpg"
+}, {
+    "id": "502",
+    "name": "Dewott",
+    "power": "413",
+    "url": "http://img.pokemondb.net/artwork/dewott.jpg"
+}, {
+    "id": "503",
+    "name": "Samurott",
+    "power": "528",
+    "url": "http://img.pokemondb.net/artwork/samurott.jpg"
+}, {
+    "id": "504",
+    "name": "Patrat",
+    "power": "255",
+    "url": "http://img.pokemondb.net/artwork/patrat.jpg"
+}, {
+    "id": "505",
+    "name": "Watchog",
+    "power": "420",
+    "url": "http://img.pokemondb.net/artwork/watchog.jpg"
+}, {
+    "id": "506",
+    "name": "Lillipup",
+    "power": "275",
+    "url": "http://img.pokemondb.net/artwork/lillipup.jpg"
+}, {
+    "id": "507",
+    "name": "Herdier",
+    "power": "370",
+    "url": "http://img.pokemondb.net/artwork/herdier.jpg"
+}, {
+    "id": "508",
+    "name": "Stoutland",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/stoutland.jpg"
+}, {
+    "id": "509",
+    "name": "Purrloin",
+    "power": "281",
+    "url": "http://img.pokemondb.net/artwork/purrloin.jpg"
+}, {
+    "id": "510",
+    "name": "Liepard",
+    "power": "446",
+    "url": "http://img.pokemondb.net/artwork/liepard.jpg"
+}, {
+    "id": "511",
+    "name": "Pansage",
+    "power": "316",
+    "url": "http://img.pokemondb.net/artwork/pansage.jpg"
+}, {
+    "id": "512",
+    "name": "Simisage",
+    "power": "498",
+    "url": "http://img.pokemondb.net/artwork/simisage.jpg"
+}, {
+    "id": "513",
+    "name": "Pansear",
+    "power": "316",
+    "url": "http://img.pokemondb.net/artwork/pansear.jpg"
+}, {
+    "id": "514",
+    "name": "Simisear",
+    "power": "498",
+    "url": "http://img.pokemondb.net/artwork/simisear.jpg"
+}, {
+    "id": "515",
+    "name": "Panpour",
+    "power": "316",
+    "url": "http://img.pokemondb.net/artwork/panpour.jpg"
+}, {
+    "id": "516",
+    "name": "Simipour",
+    "power": "498",
+    "url": "http://img.pokemondb.net/artwork/simipour.jpg"
+}, {
+    "id": "517",
+    "name": "Munna",
+    "power": "292",
+    "url": "http://img.pokemondb.net/artwork/munna.jpg"
+}, {
+    "id": "518",
+    "name": "Musharna",
+    "power": "487",
+    "url": "http://img.pokemondb.net/artwork/musharna.jpg"
+}, {
+    "id": "519",
+    "name": "Pidove",
+    "power": "264",
+    "url": "http://img.pokemondb.net/artwork/pidove.jpg"
+}, {
+    "id": "520",
+    "name": "Tranquill",
+    "power": "358",
+    "url": "http://img.pokemondb.net/artwork/tranquill.jpg"
+}, {
+    "id": "521",
+    "name": "Unfezant",
+    "power": "478",
+    "url": "http://img.pokemondb.net/artwork/unfezant.jpg"
+}, {
+    "id": "522",
+    "name": "Blitzle",
+    "power": "295",
+    "url": "http://img.pokemondb.net/artwork/blitzle.jpg"
+}, {
+    "id": "523",
+    "name": "Zebstrika",
+    "power": "497",
+    "url": "http://img.pokemondb.net/artwork/zebstrika.jpg"
+}, {
+    "id": "524",
+    "name": "Roggenrola",
+    "power": "280",
+    "url": "http://img.pokemondb.net/artwork/roggenrola.jpg"
+}, {
+    "id": "525",
+    "name": "Boldore",
+    "power": "390",
+    "url": "http://img.pokemondb.net/artwork/boldore.jpg"
+}, {
+    "id": "526",
+    "name": "Gigalith",
+    "power": "505",
+    "url": "http://img.pokemondb.net/artwork/gigalith.jpg"
+}, {
+    "id": "527",
+    "name": "Woobat",
+    "power": "313",
+    "url": "http://img.pokemondb.net/artwork/woobat.jpg"
+}, {
+    "id": "528",
+    "name": "Swoobat",
+    "power": "425",
+    "url": "http://img.pokemondb.net/artwork/swoobat.jpg"
+}, {
+    "id": "529",
+    "name": "Drilbur",
+    "power": "328",
+    "url": "http://img.pokemondb.net/artwork/drilbur.jpg"
+}, {
+    "id": "530",
+    "name": "Excadrill",
+    "power": "508",
+    "url": "http://img.pokemondb.net/artwork/excadrill.jpg"
+}, {
+    "id": "531",
+    "name": "Audino",
+    "power": "445",
+    "url": "http://img.pokemondb.net/artwork/audino.jpg"
+}, {
+    "id": "532",
+    "name": "Timburr",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/timburr.jpg"
+}, {
+    "id": "533",
+    "name": "Gurdurr",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/gurdurr.jpg"
+}, {
+    "id": "534",
+    "name": "Conkeldurr",
+    "power": "505",
+    "url": "http://img.pokemondb.net/artwork/conkeldurr.jpg"
+}, {
+    "id": "535",
+    "name": "Tympole",
+    "power": "294",
+    "url": "http://img.pokemondb.net/artwork/tympole.jpg"
+}, {
+    "id": "536",
+    "name": "Palpitoad",
+    "power": "384",
+    "url": "http://img.pokemondb.net/artwork/palpitoad.jpg"
+}, {
+    "id": "537",
+    "name": "Seismitoad",
+    "power": "499",
+    "url": "http://img.pokemondb.net/artwork/seismitoad.jpg"
+}, {
+    "id": "538",
+    "name": "Throh",
+    "power": "465",
+    "url": "http://img.pokemondb.net/artwork/throh.jpg"
+}, {
+    "id": "539",
+    "name": "Sawk",
+    "power": "465",
+    "url": "http://img.pokemondb.net/artwork/sawk.jpg"
+}, {
+    "id": "540",
+    "name": "Sewaddle",
+    "power": "310",
+    "url": "http://img.pokemondb.net/artwork/sewaddle.jpg"
+}, {
+    "id": "541",
+    "name": "Swadloon",
+    "power": "380",
+    "url": "http://img.pokemondb.net/artwork/swadloon.jpg"
+}, {
+    "id": "542",
+    "name": "Leavanny",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/leavanny.jpg"
+}, {
+    "id": "543",
+    "name": "Venipede",
+    "power": "260",
+    "url": "http://img.pokemondb.net/artwork/venipede.jpg"
+}, {
+    "id": "544",
+    "name": "Whirlipede",
+    "power": "360",
+    "url": "http://img.pokemondb.net/artwork/whirlipede.jpg"
+}, {
+    "id": "545",
+    "name": "Scolipede",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/scolipede.jpg"
+}, {
+    "id": "546",
+    "name": "Cottonee",
+    "power": "280",
+    "url": "http://img.pokemondb.net/artwork/cottonee.jpg"
+}, {
+    "id": "547",
+    "name": "Whimsicott",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/whimsicott.jpg"
+}, {
+    "id": "548",
+    "name": "Petilil",
+    "power": "280",
+    "url": "http://img.pokemondb.net/artwork/petilil.jpg"
+}, {
+    "id": "549",
+    "name": "Lilligant",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/lilligant.jpg"
+}, {
+    "id": "550",
+    "name": "Basculin",
+    "power": "460",
+    "url": "http://img.pokemondb.net/artwork/basculin.jpg"
+}, {
+    "id": "551",
+    "name": "Sandile",
+    "power": "292",
+    "url": "http://img.pokemondb.net/artwork/sandile.jpg"
+}, {
+    "id": "552",
+    "name": "Krokorok",
+    "power": "351",
+    "url": "http://img.pokemondb.net/artwork/krokorok.jpg"
+}, {
+    "id": "553",
+    "name": "Krookodile",
+    "power": "509",
+    "url": "http://img.pokemondb.net/artwork/krookodile.jpg"
+}, {
+    "id": "554",
+    "name": "Darumaka",
+    "power": "315",
+    "url": "http://img.pokemondb.net/artwork/darumaka.jpg"
+}, {
+    "id": "555",
+    "name": "Darmanitan",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/darmanitan.jpg"
+}, {
+    "id": "555",
+    "name": "Darmanitan",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/darmanitan.jpg"
+}, {
+    "id": "556",
+    "name": "Maractus",
+    "power": "461",
+    "url": "http://img.pokemondb.net/artwork/maractus.jpg"
+}, {
+    "id": "557",
+    "name": "Dwebble",
+    "power": "325",
+    "url": "http://img.pokemondb.net/artwork/dwebble.jpg"
+}, {
+    "id": "558",
+    "name": "Crustle",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/crustle.jpg"
+}, {
+    "id": "559",
+    "name": "Scraggy",
+    "power": "348",
+    "url": "http://img.pokemondb.net/artwork/scraggy.jpg"
+}, {
+    "id": "560",
+    "name": "Scrafty",
+    "power": "488",
+    "url": "http://img.pokemondb.net/artwork/scrafty.jpg"
+}, {
+    "id": "561",
+    "name": "Sigilyph",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/sigilyph.jpg"
+}, {
+    "id": "562",
+    "name": "Yamask",
+    "power": "303",
+    "url": "http://img.pokemondb.net/artwork/yamask.jpg"
+}, {
+    "id": "563",
+    "name": "Cofagrigus",
+    "power": "483",
+    "url": "http://img.pokemondb.net/artwork/cofagrigus.jpg"
+}, {
+    "id": "564",
+    "name": "Tirtouga",
+    "power": "355",
+    "url": "http://img.pokemondb.net/artwork/tirtouga.jpg"
+}, {
+    "id": "565",
+    "name": "Carracosta",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/carracosta.jpg"
+}, {
+    "id": "566",
+    "name": "Archen",
+    "power": "401",
+    "url": "http://img.pokemondb.net/artwork/archen.jpg"
+}, {
+    "id": "567",
+    "name": "Archeops",
+    "power": "567",
+    "url": "http://img.pokemondb.net/artwork/archeops.jpg"
+}, {
+    "id": "568",
+    "name": "Trubbish",
+    "power": "329",
+    "url": "http://img.pokemondb.net/artwork/trubbish.jpg"
+}, {
+    "id": "569",
+    "name": "Garbodor",
+    "power": "474",
+    "url": "http://img.pokemondb.net/artwork/garbodor.jpg"
+}, {
+    "id": "570",
+    "name": "Zorua",
+    "power": "330",
+    "url": "http://img.pokemondb.net/artwork/zorua.jpg"
+}, {
+    "id": "571",
+    "name": "Zoroark",
+    "power": "510",
+    "url": "http://img.pokemondb.net/artwork/zoroark.jpg"
+}, {
+    "id": "572",
+    "name": "Minccino",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/minccino.jpg"
+}, {
+    "id": "573",
+    "name": "Cinccino",
+    "power": "470",
+    "url": "http://img.pokemondb.net/artwork/cinccino.jpg"
+}, {
+    "id": "574",
+    "name": "Gothita",
+    "power": "290",
+    "url": "http://img.pokemondb.net/artwork/gothita.jpg"
+}, {
+    "id": "575",
+    "name": "Gothorita",
+    "power": "390",
+    "url": "http://img.pokemondb.net/artwork/gothorita.jpg"
+}, {
+    "id": "576",
+    "name": "Gothitelle",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/gothitelle.jpg"
+}, {
+    "id": "577",
+    "name": "Solosis",
+    "power": "290",
+    "url": "http://img.pokemondb.net/artwork/solosis.jpg"
+}, {
+    "id": "578",
+    "name": "Duosion",
+    "power": "370",
+    "url": "http://img.pokemondb.net/artwork/duosion.jpg"
+}, {
+    "id": "579",
+    "name": "Reuniclus",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/reuniclus.jpg"
+}, {
+    "id": "580",
+    "name": "Ducklett",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/ducklett.jpg"
+}, {
+    "id": "581",
+    "name": "Swanna",
+    "power": "473",
+    "url": "http://img.pokemondb.net/artwork/swanna.jpg"
+}, {
+    "id": "582",
+    "name": "Vanillite",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/vanillite.jpg"
+}, {
+    "id": "583",
+    "name": "Vanillish",
+    "power": "395",
+    "url": "http://img.pokemondb.net/artwork/vanillish.jpg"
+}, {
+    "id": "584",
+    "name": "Vanilluxe",
+    "power": "535",
+    "url": "http://img.pokemondb.net/artwork/vanilluxe.jpg"
+}, {
+    "id": "585",
+    "name": "Deerling",
+    "power": "335",
+    "url": "http://img.pokemondb.net/artwork/deerling.jpg"
+}, {
+    "id": "586",
+    "name": "Sawsbuck",
+    "power": "475",
+    "url": "http://img.pokemondb.net/artwork/sawsbuck.jpg"
+}, {
+    "id": "587",
+    "name": "Emolga",
+    "power": "428",
+    "url": "http://img.pokemondb.net/artwork/emolga.jpg"
+}, {
+    "id": "588",
+    "name": "Karrablast",
+    "power": "315",
+    "url": "http://img.pokemondb.net/artwork/karrablast.jpg"
+}, {
+    "id": "589",
+    "name": "Escavalier",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/escavalier.jpg"
+}, {
+    "id": "590",
+    "name": "Foongus",
+    "power": "294",
+    "url": "http://img.pokemondb.net/artwork/foongus.jpg"
+}, {
+    "id": "591",
+    "name": "Amoonguss",
+    "power": "464",
+    "url": "http://img.pokemondb.net/artwork/amoonguss.jpg"
+}, {
+    "id": "592",
+    "name": "Frillish",
+    "power": "335",
+    "url": "http://img.pokemondb.net/artwork/frillish.jpg"
+}, {
+    "id": "593",
+    "name": "Jellicent",
+    "power": "480",
+    "url": "http://img.pokemondb.net/artwork/jellicent.jpg"
+}, {
+    "id": "594",
+    "name": "Alomomola",
+    "power": "470",
+    "url": "http://img.pokemondb.net/artwork/alomomola.jpg"
+}, {
+    "id": "595",
+    "name": "Joltik",
+    "power": "319",
+    "url": "http://img.pokemondb.net/artwork/joltik.jpg"
+}, {
+    "id": "596",
+    "name": "Galvantula",
+    "power": "472",
+    "url": "http://img.pokemondb.net/artwork/galvantula.jpg"
+}, {
+    "id": "597",
+    "name": "Ferroseed",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/ferroseed.jpg"
+}, {
+    "id": "598",
+    "name": "Ferrothorn",
+    "power": "489",
+    "url": "http://img.pokemondb.net/artwork/ferrothorn.jpg"
+}, {
+    "id": "599",
+    "name": "Klink",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/klink.jpg"
+}, {
+    "id": "600",
+    "name": "Klang",
+    "power": "440",
+    "url": "http://img.pokemondb.net/artwork/klang.jpg"
+}, {
+    "id": "601",
+    "name": "Klinklang",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/klinklang.jpg"
+}, {
+    "id": "602",
+    "name": "Tynamo",
+    "power": "275",
+    "url": "http://img.pokemondb.net/artwork/tynamo.jpg"
+}, {
+    "id": "603",
+    "name": "Eelektrik",
+    "power": "405",
+    "url": "http://img.pokemondb.net/artwork/eelektrik.jpg"
+}, {
+    "id": "604",
+    "name": "Eelektross",
+    "power": "515",
+    "url": "http://img.pokemondb.net/artwork/eelektross.jpg"
+}, {
+    "id": "605",
+    "name": "Elgyem",
+    "power": "335",
+    "url": "http://img.pokemondb.net/artwork/elgyem.jpg"
+}, {
+    "id": "606",
+    "name": "Beheeyem",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/beheeyem.jpg"
+}, {
+    "id": "607",
+    "name": "Litwick",
+    "power": "275",
+    "url": "http://img.pokemondb.net/artwork/litwick.jpg"
+}, {
+    "id": "608",
+    "name": "Lampent",
+    "power": "370",
+    "url": "http://img.pokemondb.net/artwork/lampent.jpg"
+}, {
+    "id": "609",
+    "name": "Chandelure",
+    "power": "520",
+    "url": "http://img.pokemondb.net/artwork/chandelure.jpg"
+}, {
+    "id": "610",
+    "name": "Axew",
+    "power": "320",
+    "url": "http://img.pokemondb.net/artwork/axew.jpg"
+}, {
+    "id": "611",
+    "name": "Fraxure",
+    "power": "410",
+    "url": "http://img.pokemondb.net/artwork/fraxure.jpg"
+}, {
+    "id": "612",
+    "name": "Haxorus",
+    "power": "540",
+    "url": "http://img.pokemondb.net/artwork/haxorus.jpg"
+}, {
+    "id": "613",
+    "name": "Cubchoo",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/cubchoo.jpg"
+}, {
+    "id": "614",
+    "name": "Beartic",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/beartic.jpg"
+}, {
+    "id": "615",
+    "name": "Cryogonal",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/cryogonal.jpg"
+}, {
+    "id": "616",
+    "name": "Shelmet",
+    "power": "305",
+    "url": "http://img.pokemondb.net/artwork/shelmet.jpg"
+}, {
+    "id": "617",
+    "name": "Accelgor",
+    "power": "495",
+    "url": "http://img.pokemondb.net/artwork/accelgor.jpg"
+}, {
+    "id": "618",
+    "name": "Stunfisk",
+    "power": "471",
+    "url": "http://img.pokemondb.net/artwork/stunfisk.jpg"
+}, {
+    "id": "619",
+    "name": "Mienfoo",
+    "power": "350",
+    "url": "http://img.pokemondb.net/artwork/mienfoo.jpg"
+}, {
+    "id": "620",
+    "name": "Mienshao",
+    "power": "510",
+    "url": "http://img.pokemondb.net/artwork/mienshao.jpg"
+}, {
+    "id": "621",
+    "name": "Druddigon",
+    "power": "485",
+    "url": "http://img.pokemondb.net/artwork/druddigon.jpg"
+}, {
+    "id": "622",
+    "name": "Golett",
+    "power": "303",
+    "url": "http://img.pokemondb.net/artwork/golett.jpg"
+}, {
+    "id": "623",
+    "name": "Golurk",
+    "power": "483",
+    "url": "http://img.pokemondb.net/artwork/golurk.jpg"
+}, {
+    "id": "624",
+    "name": "Pawniard",
+    "power": "340",
+    "url": "http://img.pokemondb.net/artwork/pawniard.jpg"
+}, {
+    "id": "625",
+    "name": "Bisharp",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/bisharp.jpg"
+}, {
+    "id": "626",
+    "name": "Bouffalant",
+    "power": "490",
+    "url": "http://img.pokemondb.net/artwork/bouffalant.jpg"
+}, {
+    "id": "627",
+    "name": "Rufflet",
+    "power": "350",
+    "url": "http://img.pokemondb.net/artwork/rufflet.jpg"
+}, {
+    "id": "628",
+    "name": "Braviary",
+    "power": "510",
+    "url": "http://img.pokemondb.net/artwork/braviary.jpg"
+}, {
+    "id": "629",
+    "name": "Vullaby",
+    "power": "370",
+    "url": "http://img.pokemondb.net/artwork/vullaby.jpg"
+}, {
+    "id": "630",
+    "name": "Mandibuzz",
+    "power": "510",
+    "url": "http://img.pokemondb.net/artwork/mandibuzz.jpg"
+}, {
+    "id": "631",
+    "name": "Heatmor",
+    "power": "484",
+    "url": "http://img.pokemondb.net/artwork/heatmor.jpg"
+}, {
+    "id": "632",
+    "name": "Durant",
+    "power": "484",
+    "url": "http://img.pokemondb.net/artwork/durant.jpg"
+}, {
+    "id": "633",
+    "name": "Deino",
+    "power": "300",
+    "url": "http://img.pokemondb.net/artwork/deino.jpg"
+}, {
+    "id": "634",
+    "name": "Zweilous",
+    "power": "420",
+    "url": "http://img.pokemondb.net/artwork/zweilous.jpg"
+}, {
+    "id": "635",
+    "name": "Hydreigon",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/hydreigon.jpg"
+}, {
+    "id": "636",
+    "name": "Larvesta",
+    "power": "360",
+    "url": "http://img.pokemondb.net/artwork/larvesta.jpg"
+}, {
+    "id": "637",
+    "name": "Volcarona",
+    "power": "550",
+    "url": "http://img.pokemondb.net/artwork/volcarona.jpg"
+}, {
+    "id": "638",
+    "name": "Cobalion",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/cobalion.jpg"
+}, {
+    "id": "639",
+    "name": "Terrakion",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/terrakion.jpg"
+}, {
+    "id": "640",
+    "name": "Virizion",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/virizion.jpg"
+}, {
+    "id": "641",
+    "name": "Tornadus",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/tornadus.jpg"
+}, {
+    "id": "641",
+    "name": "Tornadus",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/tornadus.jpg"
+}, {
+    "id": "642",
+    "name": "Thundurus",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/thundurus.jpg"
+}, {
+    "id": "642",
+    "name": "Thundurus",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/thundurus.jpg"
+}, {
+    "id": "643",
+    "name": "Reshiram",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/reshiram.jpg"
+}, {
+    "id": "644",
+    "name": "Zekrom",
+    "power": "680",
+    "url": "http://img.pokemondb.net/artwork/zekrom.jpg"
+}, {
+    "id": "645",
+    "name": "Landorus",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/landorus.jpg"
+}, {
+    "id": "645",
+    "name": "Landorus",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/landorus.jpg"
+}, {
+    "id": "646",
+    "name": "Kyurem",
+    "power": "660",
+    "url": "http://img.pokemondb.net/artwork/kyurem.jpg"
+}, {
+    "id": "646",
+    "name": "Kyurem",
+    "power": "700",
+    "url": "http://img.pokemondb.net/artwork/kyurem.jpg"
+}, {
+    "id": "646",
+    "name": "Kyurem",
+    "power": "700",
+    "url": "http://img.pokemondb.net/artwork/kyurem.jpg"
+}, {
+    "id": "647",
+    "name": "Keldeo",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/keldeo.jpg"
+}, {
+    "id": "647",
+    "name": "Keldeo",
+    "power": "580",
+    "url": "http://img.pokemondb.net/artwork/keldeo.jpg"
+}, {
+    "id": "648",
+    "name": "Meloetta",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/meloetta.jpg"
+}, {
+    "id": "648",
+    "name": "Meloetta",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/meloetta.jpg"
+}, {
+    "id": "649",
+    "name": "Genesect",
+    "power": "600",
+    "url": "http://img.pokemondb.net/artwork/genesect.jpg"
+}]
